@@ -1,0 +1,3 @@
+An indoor real scene stereo dataset. 
+It contains thousands of pairs of images with high accuracy disparity maps. 
+We hope it can improve the the generalization performance of networks
