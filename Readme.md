@@ -6,6 +6,7 @@ We hope it can improve the the generalization performance of deep stereo matchin
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/1.png"/></div>
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/2.png"/></div>
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/3.png"/></div>
-[[more about the dataset]] (https://v.youku.com/v_show/id_XNDE4MjgyNTg5Ng==.html?spm=a2h0k.11417342.soresults.dtitle)
+
+[[More about the dataset]](https://v.youku.com/v_show/id_XNDE4MjgyNTg5Ng==.html?spm=a2h0k.11417342.soresults.dtitle)
 ## Contact
 For questions, please send an email to xyh_nudt@163.com
