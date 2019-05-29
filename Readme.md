@@ -4,7 +4,7 @@ It contains 2000 pairs of images with high accuracy disparity maps.
 We hope it can improve the the generalization performance of deep stereo matching networks.
 ## Data format
 To keep sub-pixel accuracy, the raw floating disparity maps are magnified 100 times and rounded, finally stored in 16-bit PNG format.
-So When using the dataset, divide the disparity values by 100 to keep the correct scale.
+So When using the dataset, divide the disparity values by 100 to get the correct scale.
 ## Samples
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/1.png"/></div>
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/2.png"/></div>
