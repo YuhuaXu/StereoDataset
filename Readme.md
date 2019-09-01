@@ -1,4 +1,4 @@
-# InStereo2K: A large real dataset for stereo matching in indoor scenes嗯。
+# InStereo2K: A large real dataset for stereo matching in indoor scenes
 ## Overview
 It contains 2000 pairs of images with high accuracy disparity maps. 
 We hope it can improve the the generalization performance of deep stereo matching networks.
