@@ -5,7 +5,8 @@ We hope it can improve the the generalization performance of deep stereo matchin
 ## Data format
 To keep sub-pixel accuracy, the raw floating disparity maps are magnified 100 times and rounded, finally stored in 16-bit PNG format.
 So When using the dataset, divide the disparity values by 100 to get the correct scale.
-The invalid disparity is set to zero. So in your training process, the invalid pixels should be kicked out.
+
+The invalid disparity is set to zero. In your training process, the invalid pixels should be kicked out.
 If you use resizing to enhance the dataset in disparity range, we recommend the nearest interpolation.
 ## Samples
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/1.png"/></div>
