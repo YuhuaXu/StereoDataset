@@ -19,7 +19,7 @@ If you use resizing to enhance the dataset in disparity range, we recommend the 
 [[More about the dataset (video)]](https://v.youku.com/v_show/id_XNDE4MjgyNTg5Ng==.html?spm=a2h0k.11417342.soresults.dtitle)
 
 ## Evaluation
-The image below is the result of iResNet finetuned using our dataset. The bad2.0 error is 18.5.
+The figure below is the result of iResNet [1] finetuned using our dataset. The bad2.0 error is 18.5 (ranking 58th). For more information, please refer to our paper.
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/eva_mid.png"/></div>
 
 ## Download
@@ -29,3 +29,6 @@ Extraction Code: 9qwt
 
 ## Contact
 For questions, please send an email to xyh_nudt@163.com
+
+## Reference
+[1] Z Liang, Y Guo*, Y Feng, W Chen, L Qiao, L Zhou, J Zhang, H Liu. Stereo Matching Using Multi-level Cost Volume and Multi-scale Feature Constancy. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2019.
