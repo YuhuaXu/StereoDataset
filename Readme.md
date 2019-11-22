@@ -20,7 +20,7 @@ If you use resizing to enhance the dataset in disparity range, we recommend the 
 
 ## Evaluation
 The image below is the result of iResNet finetuned using our dataset in Middlebury dataset. The bad2.0 error is 18.5.
-<img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/3.png"/></div>
+<img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/eva_mid.png"/></div>
 
 ## Download
 https://pan.baidu.com/s/160BB5bfs0oABLqwJjZzYiA 
