@@ -11,7 +11,7 @@ So When using the dataset, divide the disparity values by 100 to get the correct
 The invalid disparity is set to zero. In your training process, the invalid pixels should be kicked out.
 If you use resizing to enhance the dataset in disparity range, we recommend the nearest interpolation.
 
-## Dispartiy Map Samples
+## Disparity Map Samples
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/1.png"/></div>
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/2.png"/></div>
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/3.png"/></div>
