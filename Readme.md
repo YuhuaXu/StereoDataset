@@ -20,6 +20,7 @@ If you use resizing to enhance the dataset in disparity range, we recommend the 
 
 ## Evaluation
 The figure below is the result of iResNet [1] finetuned using our dataset. The bad2.0 error is 18.5 (ranking 58th). For more information, please refer to our paper.
+
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/eva_mid.png"/></div>
 
 ## Download
