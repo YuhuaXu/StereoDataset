@@ -19,7 +19,7 @@ If you use resizing to enhance the dataset in disparity range, we recommend the 
 [[More about the dataset (video)]](https://v.youku.com/v_show/id_XNDE4MjgyNTg5Ng==.html?spm=a2h0k.11417342.soresults.dtitle)
 
 ## Evaluation
-The figure below is the result of iResNet [1] finetuned using our dataset. The bad2.0 error is 18.5 (ranking 58th). For more information, please refer to our paper.
+The figure below is the result of iResNet [1] finetuned using our dataset. The bad2.0 error is 18.5. Note that the Middlebury training set is not used during the fine-tuning process, so it can be seen as an unseen data set. For more information, please refer to our paper.
 
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/eva_mid.png"/></div>
 
