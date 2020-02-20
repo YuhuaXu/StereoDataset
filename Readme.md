@@ -4,6 +4,8 @@
 It contains 2050 pairs of images with high accuracy disparity maps (2000 for training, 50 for testing). 
 We hope it can improve the the generalization performance of deep stereo matching networks.
 
+Wei Bao, Wei Wang, Yuhua Xu, Yulan Guo, Siyu Hong, Xiaohu Zhang. InStereo2K: A large real dataset for stereo matching in indoor scenes. SCIENCE CHINA Information Sciences. 2020.
+
 ## Data format
 To keep sub-pixel accuracy, the raw floating disparity maps are magnified 100 times and rounded, finally stored in 16-bit PNG format.
 So When using the dataset, divide the disparity values by 100 to get the correct scale.
