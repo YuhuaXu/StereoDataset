@@ -26,11 +26,11 @@ The figure below is the result of iResNet [2] finetuned using our dataset and th
 <img width="600" src="https://github.com/YuhuaXu/StereoDataset/blob/master/samples/eva_mid.png"/></div>
 
 ## Download
-https://pan.baidu.com/s/160BB5bfs0oABLqwJjZzYiA 
+1. BaiDu（百度网盘）: https://pan.baidu.com/s/160BB5bfs0oABLqwJjZzYiA 
 
 Extraction Code: 9qwt 
 
-OneDrive Link [optional]:
+2. OneDrive Link:
 https://1drv.ms/u/s!AhORN5PjOtgJgQVku2DVLD8Xaqkk?e=9DTd0n
 
 https://1drv.ms/u/s!AoQcUQo52MO6aFIMqKJKDmzCxuQ?e=D8G0zi
