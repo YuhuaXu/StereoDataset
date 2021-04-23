@@ -44,3 +44,6 @@ For questions, please send an email to xyh_nudt@163.com
 [2] Z Liang, Y Guo*, Y Feng, W Chen, L Qiao, L Zhou, J Zhang, H Liu. Stereo Matching Using Multi-level Cost Volume and Multi-scale Feature Constancy. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2019.
 
 [3] Duggal S, Wang S, Ma W C, et al. DeepPruner: Learning Efficient Stereo Matching via Differentiable PatchMatch[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 4384-4393.
+
+## License agreement
+This dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation.
